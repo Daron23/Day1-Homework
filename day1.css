@@ -1,0 +1,154 @@
+.body {
+    margin: 0;
+}
+h1 {
+    color: white;
+    font-family: fantasy;
+    font-size: 4em;
+}
+h2{
+  color: white;
+  font-size: 6em;
+  font-family: fantasy;
+  line-height: 1px;
+  margin-left: 47px
+}
+h3{ color:RGB(111, 94, 62);
+    font-family: fantasy;
+   
+}
+
+p{
+  color: white;
+  font-size: 1.5em;
+  font-family: fantasy;
+  line-height: 2px;
+}
+.point {
+    top: 15px;
+    margin-left: 225px;  
+}
+
+.block {
+    position: fixed;
+    height: 124px;
+    background-color: rgb(246, 244, 210);
+    opacity: 0.9;
+    border: 3px solid rgb(111, 87, 45);
+    width: 100%;
+}
+.name {
+    display: inline-block;
+    position: absolute;
+}
+.name img {
+    width: 124px;
+    padding-left: 11px;
+    padding-top: 5px;
+}
+.nav {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    margin: 0 auto;
+}
+.nav ul {
+    text-align: center;
+}
+.nav li {
+    display: inline-block;
+    padding: 17px;
+    font-family: fantasy;
+    color: rgb(111, 87, 45);
+    font-size: 1.35em;
+    margin-top: 20px
+}
+.intro{
+  background-image: url(http://www.goodwp.com/images/201403/goodwp.com_30819.jpg);
+  min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.top {
+    background-image: url(http://4photos.net/blog/wp-content/uploads/Maldives-Hotel-Wallpaper.jpg);
+    min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.image {
+    background-image: url(http://www.markentail.com/ResortPics/c1c5a114-531a-4db4-92c8-0bf5eab471d7.jpg);
+    min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.image2 {
+    background-image: url(http://images.smh.com.au/2013/10/24/4855947/art-Maldives-Resort-Woman-620x349.jpg);
+    min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.image3 {
+    background-image: url(http://o.homedsgn.com/wp-content/uploads/2011/11/Taj-Exotica-Maldives-02-1.jpg);
+    min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.image4 {
+    background-image: url(http://brinkrad.com/images/maldives-reethi-rah-luxury-infinity-pool-carved-stone-lounge-bed-beautiful-beach-view-reethi-rah-resort-infinity-pool-reethi-rah-beautiful-beach-views-reethi-rah-pool-carved-stone-bed-reethi-rah-wat.jpg);
+    min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.image5 {
+    background-image: url(http://www.travigators.com/blog/wp-content/uploads/2014/01/LIME-Spa-at-Huvafen-Fushi-Maldives.jpg);
+    min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.image6 {
+    background-image: url(http://15pictures.com/wp-content/gallery/15-pictures-maldives/maldives-4.jpg);
+    min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.image7{
+  background-color:RGB(111, 158, 212);
+  min-height: 100vh;
+    padding: 5em;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.left {
+	display: inline-block;
+	min-height: 200px;
+	background-color: RGB(232, 235, 210);
+	width:50%;
+	vertical-align: top;
+}
+
+
+.right{
+  display: inline-block;
+	min-height: 400px;
+  background-color:RGB(232, 235, 210);
+	width:45%;
+	vertical-align: top;
+  margin-left: 10px;
+}
