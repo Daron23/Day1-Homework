@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 body {
+=======
+.body {
+>>>>>>> 03872dc0eea6266a9c66f427e985e8f4ad6a1062
     margin: 0;
 }
 h1 {
@@ -136,6 +140,7 @@ p{
     background-attachment: fixed;
 }
 .left {
+<<<<<<< HEAD
     display: inline-block;
     min-height: 200px;
     background-color: RGB(232, 235, 210);
@@ -156,4 +161,21 @@ p{
     vertical-align: top;
   margin-left: 10px;
   padding: 10px;
+=======
+	display: inline-block;
+	min-height: 200px;
+	background-color: RGB(232, 235, 210);
+	width:50%;
+	vertical-align: top;
+}
+
+
+.right{
+  display: inline-block;
+	min-height: 400px;
+  background-color:RGB(232, 235, 210);
+	width:45%;
+	vertical-align: top;
+  margin-left: 10px;
+>>>>>>> 03872dc0eea6266a9c66f427e985e8f4ad6a1062
 }
